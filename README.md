@@ -1,15 +1,15 @@
 # Gta-San-Andreas-Cr3amPea-Enb-EXTREME
  
-  ,ad8888ba,              ad888888b,                                  88888888ba                            
- d8"'    `"8b            d8"     "88                                  88      "8b                           
-d8'                              a8P                                  88      ,8P                           
-88             8b,dPPYba,     aad8"   ,adPPYYba,  88,dPYba,,adPYba,   88aaaaaa8P'  ,adPPYba,  ,adPPYYba,    
-88             88P'   "Y8     ""Y8,   ""     `Y8  88P'   "88"    "8a  88""""""'   a8P_____88  ""     `Y8    
-Y8,            88                "8b  ,adPPPPP88  88      88      88  88          8PP"""""""  ,adPPPPP88    
- Y8a.    .a8P  88        Y8,     a88  88,    ,88  88      88      88  88          "8b,   ,aa  88,    ,88    
-  `"Y8888Y"'   88         "Y888888P'  `"8bbdP"Y8  88      88      88  88           `"Ybbd8"'  `"8bbdP"Y8 
+              ,ad8888ba,              ad888888b,                                  88888888ba                            
+             d8"'    `"8b            d8"     "88                                  88      "8b                           
+            d8'                              a8P                                  88      ,8P                           
+            88             8b,dPPYba,     aad8"   ,adPPYYba,  88,dPYba,,adPYba,   88aaaaaa8P'  ,adPPYba,  ,adPPYYba,    
+            88             88P'   "Y8     ""Y8,   ""     `Y8  88P'   "88"    "8a  88""""""'   a8P_____88  ""     `Y8    
+            Y8,            88                "8b  ,adPPPPP88  88      88      88  88          8PP"""""""  ,adPPPPP88    
+             Y8a.    .a8P  88        Y8,     a88  88,    ,88  88      88      88  88          "8b,   ,aa  88,    ,88    
+              `"Y8888Y"'   88         "Y888888P'  `"8bbdP"Y8  88      88      88  88           `"Ybbd8"'  `"8bbdP"Y8 
 
-                              ***"The best graphics enhancement mod for gta sa."***
+                                   ***"The best graphics enhancement mod for gta sa."***
                              
                          
  BASIC INFO:
