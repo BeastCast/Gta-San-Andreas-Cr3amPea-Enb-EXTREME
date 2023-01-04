@@ -17,6 +17,7 @@
   This mod is a part of adding ultimate graphics to dated games.
   
   This is an enb graphics mod for the definitive edition and 1.0 original version of GTA San Andreas.
+  
   (THE GTA SA DEFINITIVE EDITION COMPATIBLE VERSION OF THIS MOD IS NOT QUITE READY YET, GIVE IT TIME).
   
   This uses enb V .430 which tries it's hardest to prevent bugs.
@@ -28,6 +29,9 @@
   (The CreamPea gta 4 enb preset is on the way.)
   
  **To Download; Download the latest version from the releases tab.**
+ 
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  To install go to the [Releases Tab](https://github.com/BeastCast/Gta-San-Andreas-Cr3amPea-Enb-EXTREME/releases).
  
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
