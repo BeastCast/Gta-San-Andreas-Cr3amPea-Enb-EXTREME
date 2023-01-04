@@ -16,8 +16,8 @@
 
   This mod is a part of adding ultimate graphics to dated games.
   
-  This is an enb graphics mod for the 1.0 ORIGINAL version of GTA San Andreas.
-  All graphics mods for the 1.0 version of gta sa are bound to bugs! Meaning use at your own risk.
+  This is an enb graphics mod for the definitive edition and 1.0 original version of GTA San Andreas.
+  (THE GTA SA DEFINITIVE EDITION COMPATIBLE VERSION OF THIS MOD IS NOT QUITE READY YET, GIVE IT TIME).
   
   This uses enb V .430 which tries it's hardest to prevent bugs.
  
@@ -31,55 +31,16 @@
  
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- INCLUDED MODS:
+ COMPATIBILITY:
+ *There will be a new version of this mod made for the trilogy of Gta Sa.
  
- I've included an optional pre patched exe which has the cd fix, enb fix, and the 4gb patch.
+ -This is mainly compatible with 1.0 version of GTA SA. It has not been tested on any other versions by me.
  
- There are skygfx optional settings (both extended and original versions) in case you want to use this mod with skygfx.
- 
- I've included the optional BEST widescreen fix.
- 
- I've included mousefix.asi which comes with the mod.
- 
- I'e included noisefix.cs which comes with the mod.
- 
- I've included static_car_shadow.cs which also comes with the mod.
+ -All requirements will be included with the mod; meaning that the mod will be big to install.
  
  
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
- -
  
- **REQUIREMENTS:**
  
- A patched exe (Just use the one I gave) - Needed for the game to launch and work properly.
 
-CLEO+ - https://www.mixmods.com.br/2022/11/cleoplus/
-
-Modloader - https://www.mixmods.com.br/2018/01/modloader/
-
-Any asi loader, just use silents - https://www.mixmods.com.br/2014/11/silents-asi-loader-1-3/
-
-SilentPatch 1.1 - https://www.mixmods.com.br/2019/12/sa-silentpatch/
-
-Any widescreen fix (Just use the one I gave)
-
-Open Limit Adjuster - https://www.mixmods.com.br/2022/10/open-limit-adjuster/
-
-[WHEN I RELEASE UPDATE 1.1; ALL THE REQUIREMENTS WILL BE INCLUDED]
-
-
- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
- RECOMMENDED MODS:
-
-fastman92 limit adjuster - https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/
-
-FramerateVigilante - https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
-
-Improved Streaming - https://www.mixmods.com.br/2022/04/improved-streaming/
-
-Mixsets - https://www.mixmods.com.br/2022/03/sa-mixsets/
-
-Skygfx - https://www.mixmods.com.br/2022/11/sa-skygfx/
  
 #Cr3amPea 
